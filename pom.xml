@@ -95,10 +95,10 @@
 	
 	<distributionManagement>
 	
-	    <repository>
+	    <releaseRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://35.174.19.3:8081/repository/amazon-release/</url>
+	      <url>http://54.85.131.70:8081/repository/Paypal_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
