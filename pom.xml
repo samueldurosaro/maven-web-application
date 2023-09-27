@@ -103,7 +103,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>samuel durosaro Snapshot Nexus Repository </name>
 	      <url>http://54.85.131.70:8081/repository/Paypal_Snapshot/</url>
 	    </snapshotRepository>
 	    
