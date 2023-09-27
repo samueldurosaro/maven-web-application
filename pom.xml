@@ -103,8 +103,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>samuel durosaro Snapshot Nexus Repository </name>
-	      <url>http://54.85.131.70:8081/repository/paypal-snapshot//</url>
+	      <name>samueldurosaro Snapshot Nexus Repository </name>
+	      <url>http://54.85.131.70:8081/repository/paypal-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
